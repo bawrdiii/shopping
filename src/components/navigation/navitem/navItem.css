@@ -1,0 +1,21 @@
+.nav-item {
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    height: 100%;
+    align-items: center;
+  }
+  .nav-item a {
+    text-decoration: none;
+    color: #ffffff;
+    height: 100%;
+    padding: 16px 10px;
+    box-sizing: border-box;
+    display: block;
+  
+  }
+  .nav-item a:hover {
+   background: coral;
+   height: 50px;
+  }
+  
